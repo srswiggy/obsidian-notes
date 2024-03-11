@@ -1,0 +1,5 @@
+- https://www.geeksforgeeks.org/archetypes/
+- https://www.youtube.com/watch?v=TMX1kQ4W4hI
+- https://aniwatchtv.to/watch/naruto-shippuden-355?ep=8010
+- https://github.com/codecrafters-io/build-your-own-x?tab=readme-ov-file#build-your-own-web-server
+- https://refactoring.guru/refactoring/smells
