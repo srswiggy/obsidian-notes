@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Masterclass/Security Best Practices.md",
+                "file": "Google Chrome Links.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "4cff4acd8600d4e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Informative Docs.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Masterclass/Security Best Practices.md",
+                "file": "Informative Docs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Masterclass/Security Best Practices.md",
+                "file": "Informative Docs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Masterclass/Security Best Practices.md"
+                "file": "Informative Docs.md"
               }
             }
           }
@@ -146,18 +159,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b0cf39d5448f039",
+  "active": "4cff4acd8600d4e4",
   "lastOpenFiles": [
-    "Masterclass/Shuttl.md",
+    "Google Chrome Links.md",
+    "Informative Docs.md",
+    "Assignment 2 Notes.md",
     "Masterclass/Security Best Practices.md",
+    "Daily Updates.md",
+    "Masterclass/Shuttl.md",
     "Masterclass/Architectural Blueprint.md",
     "AT1/Dash Data Service.md",
     "AT1/AT1.md",
     "Masterclass",
-    "Google Chrome Links.md",
     "AT1/Dash Web.md",
     "AT1/Super Dash.md",
-    "Assignment 2 Notes.md",
     "AT1",
     "Start Here.md",
     "Welcome.md",
