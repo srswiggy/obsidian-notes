@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6ac32c8ab8698e",
+        "id": "83f4fa83a5807e00",
         "type": "tabs",
         "children": [
           {
-            "id": "4b0cf39d5448f039",
+            "id": "a1f0ef7dfc41e977",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,14 +20,12 @@
             }
           },
           {
-            "id": "4cff4acd8600d4e4",
+            "id": "2b0a226f62640cfd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Informative Docs.md",
-                "mode": "preview",
-                "source": false
+                "file": "Engineering Books.png"
               }
             }
           }
@@ -98,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Informative Docs.md",
+                "file": "Engineering Books.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Informative Docs.md",
+                "file": "Engineering Books.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Informative Docs.md"
+                "file": "Engineering Books.png"
               }
             }
           }
@@ -159,20 +157,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4cff4acd8600d4e4",
+  "active": "2b0a226f62640cfd",
   "lastOpenFiles": [
     "Google Chrome Links.md",
+    "Engineering Books.png",
+    "Git Commands.md",
     "Informative Docs.md",
+    "Masterclass/Ephemeral Environment.md",
+    "AT1/AT1.md",
+    "AT1/Dash Data Service.md",
+    "AT1/Super Dash.md",
+    "AT1/Dash Web.md",
+    "Backend Enginnering/Design Patterns/Pub-Sub Model.md",
+    "Backend Enginnering/Design Patterns/Long Polling.md",
+    "Backend Enginnering/Design Patterns/Push.md",
+    "Backend Enginnering/Design Patterns/Server Sent Events.md",
+    "Backend Enginnering/Design Patterns/Synchronous vs Asynchronous.md",
+    "Backend Enginnering/Design Patterns/Short Polling.md",
+    "Backend Enginnering/Fundamentals of Backend Engineering.md",
+    "Backend Enginnering/Design Patterns",
+    "Backend Enginnering/Design Patterns/Request Response.md",
+    "Backend Enginnering",
     "Assignment 2 Notes.md",
     "Masterclass/Security Best Practices.md",
     "Daily Updates.md",
     "Masterclass/Shuttl.md",
     "Masterclass/Architectural Blueprint.md",
-    "AT1/Dash Data Service.md",
-    "AT1/AT1.md",
     "Masterclass",
-    "AT1/Dash Web.md",
-    "AT1/Super Dash.md",
     "AT1",
     "Start Here.md",
     "Welcome.md",
